@@ -177,5 +177,5 @@ Push / PR → API Tests ─┐
 
 ## 👤 Author
 
-**Your Name** — QA Engineer  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/YOUR_USERNAME)
+Flame-Bannawit — QA Engineer  
+[LinkedIn](https://www.linkedin.com/in/bannawit-chaichomphu-61094b3b4) · [GitHub](https://github.com/Flame-Bannawit)
